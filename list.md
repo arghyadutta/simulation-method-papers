@@ -1,1 +1,1 @@
-- Rahman, A.; Correlations in the Motion of Atoms in Liquid Argon. *Phys. Rev.*, 1964, 136, A405–A411 10.1103/PhysRev.136.A405
+- Rahman, A.; Correlations in the Motion of Atoms in Liquid Argon. *Phys. Rev.*, 1964, 136, A405–A411 [10.1103/PhysRev.136.A405](https://link.aps.org/doi/10.1103/PhysRev.136.A405)
